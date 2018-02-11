@@ -10,6 +10,9 @@ import csv
 import re
 import time
 
+#Enter username and password
+#Add time.sleep accordingly
+
 path="/Users/sheetaldarekar/anaconda3/bin/geckodriver"
 driver = webdriver.Firefox(executable_path=path)
 wait = WebDriverWait(driver, 15) 
@@ -27,9 +30,9 @@ wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@id="form-step-0"]/div/sect
 
 time.sleep(10)
 username = driver.find_element_by_name("uEmail")
-username.send_keys("mdsheetal@gmail.com")
+username.send_keys("******")
 password = driver.find_element_by_name("uPassword")
-password.send_keys("Winwin@321")
+password.send_keys("******")
 
 time.sleep(10)
 
