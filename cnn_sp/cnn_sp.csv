@@ -1,506 +1,505 @@
-Company,Ticker
-3M,MMM
-A. O. Smith Corp,AOS
-Abbott Laboratories,ABT
-AbbVie,ABBV
-Accenture,ACN
-Activision Blizzard Inc,ATVI
-Acuity Brands Inc,AYI
-Adobe,ADBE
-Advance Auto Parts Inc,AAP
-Advanced Micro Devices Inc,AMD
-AES Corp,AES
-Aetna,AET
-Affiliated Managers Group Inc,AMG
-Aflac Inc,AFL
-Agilent Technologies Inc,A
-AIG,AIG
-Air Products and Chemicals Inc,APD
-Akamai Technologies Inc,AKAM
-Alaska Air Group Inc,ALK
-Albemarle Corp,ALB
-Alcoa,ARNC
-Alexandria Real Estate Equities Inc,ARE
-Alexion Pharmaceuticals Inc,ALXN
-Align Technology Inc,ALGN
-Allegion PLC,ALLE
-Allergan,AGN
-Alliance Data Systems Corp,ADS
-Alliant Energy Corp,LNT
-Allstate,ALL
-Altria Group,MO
-Amazon,AMZN
-Ameren Corp,AEE
-American Airlines,AAL
-American Electric Power Company Inc,AEP
-American Express,AXP
-American Tower,AMT
-American Water Works Company Inc,AWK
-Ameriprise Financial Inc,AMP
-AmerisourceBergen Corp,ABC
-Ametek Inc,AME
-Amgen,AMGN
-Amphenol Corp,APH
-Anadarko Petroleum Corp,APC
-Analog Devices Inc,ADI
-Andeavor,ANDV
-ANSYS Inc,ANSS
-Aon PLC,AON
-Apache Corp,APA
-Apartment Investment and Management Co,AIV
-Apple,AAPL
-Applied Materials Inc,AMAT
-Aptiv PLC,APTV
-Archer Daniels Midland Co,ADM
-Arthur J Gallagher & Co,AJG
-Assurant Inc,AIZ
-AT&T,T
-Autodesk Inc,ADSK
-Automatic Data Processing Inc,ADP
-Autozone Inc,AZO
-AvalonBay Communities,AVB
-Avery Dennison Corp,AVY
-Baker Hughes A GE Co,BHGE
-Ball Corp,BLL
-Bank of America,BAC
-Bank of New York,BK
-Baxter International Inc,BAX
-BB&T Corp,BBT
-Becton Dickinson and Co,BDX
-Berkshire Hathaway,BRK.B
-Best Buy Co Inc,BBY
-Biogen,BIIB
-BlackRock,BLK
-Boeing,BA
-BorgWarner Inc,BWA
-Boston Properties,BXP
-Boston Scientific Corp,BSX
-Brighthouse Financial Inc,BHF
-Bristol-Myers Squibb,BMY
-Broadcom Ltd,AVGO
-Brown-Forman Corp,BFB
-C.H. Robinson Worldwide Inc,CHRW
-CA Inc,CA
-Cabot Oil & Gas Corp,COG
-Cadence Design Systems Inc,CDNS
-Campbell Soup Co,CPB
-Capital One Financial,COF
-Cardinal Health Inc,CAH
-Carmax Inc,KMX
-Carnival Corp,CCL
-Caterpillar,CAT
-Cboe Global Markets Inc,CBOE
-CBRE Group Inc,CBG
-CBS,CBS
-Celgene,CELG
-Centene Corp,CNC
-CenterPoint Energy Inc,CNP
-CenturyLink,CTL
-Cerner Corp,CERN
-CF Industries Holdings Inc,CF
-Charles Schwab,SCHW
-Charter Communications Inc,CHTR
-Chesapeake Energy,CHK
-Chevron,CVX
-Chipotle,CMG
-Chubb Ltd,CB
-Church & Dwight Co Inc,CHD
-Cigna Corp,CI
-Cimarex Energy Co,XEC
-Cincinnati Financial Corp,CINF
-Cintas Corp,CTAS
-Cisco,CSCO
-Citigroup,C
-Citizens Financial Group Inc,CFG
-Citrix Systems Inc,CTXS
-Clorox Co,CLX
-CME Group Inc,CME
-CMS Energy Corp,CMS
-Coca-Cola,KO
-Cognizant Technology Solutions Corp,CTSH
-Colgate-Palmolive,CL
-Comcast,CMCSA
-Comerica Inc,CMA
-Conagra Brands Inc,CAG
-Concho Resources Inc,CXO
-ConocoPhillips,COP
-Consolidated Edison Inc,ED
-Constellation Brands Inc,STZ
-Cooper Companies Inc,COO
-Corning,GLW
-Costco,COST
-Coty Inc,COTY
-Crown Castle International Corp,CCI
-CSRA Inc,CSRA
-CSX Corp,CSX
-Cummins Inc,CMI
-CVS Caremark,CVS
-D.R. Horton Inc,DHI
-Danaher Corp,DHR
-Darden Restaurants Inc,DRI
-Davita Inc,DVA
-Deere & Co,DE
-Delta Air Lines,DAL
-Dentsply Sirona Inc,XRAY
-Devon Energy Corp,DVN
-Digital Realty Trust Inc,DLR
-Discover Financial Services,DFS
-Discovery Communications Inc,DISCA
-Discovery Communications Inc,DISCK
-DISH Network,DISH
-Disney,DIS
-Dollar General,DG
-Dollar Tree Inc,DLTR
-Dominion Energy Inc,D
-Dover Corp,DOV
-DowDuPont Inc,DWDP
-Dr Pepper Snapple Group Inc,DPS
-DTE Energy Co,DTE
-Duke Energy,DUK
-Duke Realty Corp,DRE
-DXC Technology Co,DXC
-E*TRADE Financial Corp,ETFC
-Eastman Chemical Co,EMN
-Eaton Corporation PLC,ETN
-eBay,EBAY
-Ecolab Inc,ECL
-Edison International,EIX
-Edwards Lifesciences Corp,EW
-Electronic Arts Inc,EA
-Eli Lilly and Co,LLY
-Emerson Electric Co,EMR
-Entergy Corp,ETR
-Envision Healthcare Corp,EVHC
-EOG Resources Inc,EOG
-EQT Corp,EQT
-Equifax Inc,EFX
-Equinix Inc,EQIX
-Equity Residential,EQR
-Essex Property Trust Inc,ESS
-Estee Lauder,EL
-Everest Re Group Ltd,RE
-Eversource Energy,ES
-Exelon,EXC
-Expedia Inc,EXPE
-Expeditors International of Washington Inc,EXPD
-Express Scripts Holding Co,ESRX
-Extra Space Storage Inc,EXR
-Exxon Mobil,XOM
-F5 Networks Inc,FFIV
-Facebook,FB
-Fastenal Co,FAST
-Federal Realty Investment Trust,FRT
-FedEx,FDX
-Fidelity National Information Services Inc,FIS
-Fifth Third Bancorp,FITB
-FirstEnergy Corp,FE
-Fiserv Inc,FISV
-FLIR Systems Inc,FLIR
-Flowserve Corp,FLS
-Fluor Corp,FLR
-FMC Corp,FMC
-Foot Locker Inc,FL
-Ford,F
-Fortive Corp,FTV
-Fortune Brands Home & Security Inc,FBHS
-Franklin Resources,BEN
-Freeport-McMoRan Inc,FCX
-Gap,GPS
-Garmin Ltd,GRMN
-Gartner Inc,IT
-General Dynamics,GD
-General Electric,GE
-General Mills,GIS
-Genuine Parts Co,GPC
-GGP Inc,GGP
-Gilead Sciences,GILD
-Global Payments Inc,GPN
-GM,GM
-Goldman Sachs,GS
-Goodyear Tire & Rubber Co,GT
-Google,GOOGL
-Google,GOOG
-H & R Block Inc,HRB
-Halliburton,HAL
-HanesBrands Inc,HBI
-Harley-Davidson Inc,HOG
-Harris Corp,HRS
-Hartford Financial Services Group Inc,HIG
-Hasbro Inc,HAS
-HCA Healthcare Inc,HCA
-HCP Inc,HCP
-Helmerich and Payne Inc,HP
-Henry Schein Inc,HSIC
-Hershey,HSY
-Hess,HES
-Hewlett Packard Enterprise Co,HPE
-Hewlett-Packard,HPQ
-Hilton Worldwide Holdings Inc,HLT
-Hologic Inc,HOLX
-Home Depot,HD
-Honeywell,HON
-Hormel Foods Corp,HRL
-Host Hotels & Resorts Inc,HST
-Humana Inc,HUM
-Huntington Bancshares Inc,HBAN
-Huntington Ingalls Industries Inc,HII
-IBM,IBM
-IDEXX Laboratories Inc,IDXX
-IHS Markit Ltd,INFO
-Illinois Tool Works Inc,ITW
-Illumina Inc,ILMN
-Incyte Corp,INCY
-Ingersoll-Rand,IR
-Intel,INTC
-Intercontinental Exchange Inc,ICE
-International Flavors & Fragrances Inc,IFF
-International Paper Co,IP
-Interpublic Group of Companies Inc,IPG
-Intuit,INTU
-Intuitive Surgical,ISRG
-Invesco Ltd,IVZ
-Iqvia Holdings Inc,IQV
-Iron Mountain Inc,IRM
-J B Hunt Transport Services Inc,JBHT
-J M Smucker Co,SJM
-Jacobs Engineering Group Inc,JEC
-Johnson & Johnson,JNJ
-JPMorgan Chase,JPM
-Juniper Networks Inc,JNPR
-Kansas City Southern,KSU
-Kellogg,K
-KeyCorp,KEY
-Kimberly-Clark,KMB
-Kimco Realty Corp,KIM
-Kinder Morgan,KMI
-KLA-Tencor Corp,KLAC
-Kohls Corp,KSS
-Kraft Heinz Co,KHC
-Kroger Co,KR
-L Brands Inc,LB
-L3 Technologies Inc,LLL
-Laboratory Corporation of America Holdings,LH
-Lam Research Corp,LRCX
-Leggett & Platt Inc,LEG
-Lennar Corp,LEN
-Leucadia National Corp,LUK
-Lincoln National Corp,LNC
-LKQ Corp,LKQ
-Lockheed Martin,LMT
-Loews Corp,L
-Lowe's,LOW
-LyondellBasell Industries NV,LYB
-M&T Bank,MTB
-Macerich Co,MAC
-Macy's,M
-Marathon Oil,MRO
-Marathon Petroleum,MPC
-Marriott,MAR
-Marsh & McLennan Companies Inc,MMC
-Martin Marietta Materials Inc,MLM
-Masco Corp,MAS
-MasterCard,MA
-Mattel Inc,MAT
-McCormick & Company Inc,MKC
-McDonald's,MCD
-McKesson Corp,MCK
-Medtronic PLC,MDT
-Merck,MRK
-Metlife,MET
-Mettler-Toledo International Inc,MTD
-MGM Resorts International,MGM
-Michael Kors,KORS
-Microchip Technology Inc,MCHP
-Micron Technology Inc,MU
-Microsoft,MSFT
-Mid-America Apartment Communities Inc,MAA
-Mohawk Industries Inc,MHK
-Molson Coors Brewing Co,TAP
-Mondelez International Inc,MDLZ
-Monsanto,MON
-Monster Beverage Corp,MNST
-Moody's Corp,MCO
-Morgan Stanley,MS
-Mosaic Co,MOS
-Motorola,MSI
-Mylan NV,MYL
-Nasdaq Inc,NDAQ
-National Oilwell Varco Inc,NOV
-Navient Corp,NAVI
-NetApp Inc,NTAP
-Netflix,NFLX
-Newell Brands Inc,NWL
-Newfield Exploration Co,NFX
-Newmont Mining Corp,NEM
-News Corp,NWSA
-News Corp,NWS
-NextEra Energy,NEE
-Nielsen Holdings PLC,NLSN
-Nike,NKE
-NiSource Inc,NI
-Noble Energy,NBL
-Nordstrom Inc,JWN
-Norfolk Southern,NSC
-Northern Trust,NTRS
-Northrop Grumman,NOC
-Norwegian Cruise Line Holdings Ltd,NCLH
-NRG Energy Inc,NRG
-Nucor Corp,NUE
-NVIDIA Corp,NVDA
-O'Reilly Automotive Inc,ORLY
-Occidental Petroleum,OXY
-Omnicom Group Inc,OMC
-ONEOK Inc,OKE
-Oracle,ORCL
-PACCAR Inc,PCAR
-Packaging Corp of America,PKG
-Parker-Hannifin Corp,PH
-Patterson Companies Inc,PDCO
-Paychex Inc,PAYX
-PayPal Holdings Inc,PYPL
-Pentair plc,PNR
-People's United Financial Inc,PBCT
-Pepsi,PEP
-PerkinElmer Inc,PKI
-Perrigo Company PLC,PRGO
-Pfizer,PFE
-PG&E,PCG
-Philip Morris,PM
-Phillips 66,PSX
-Pinnacle West Capital Corp,PNW
-Pioneer Natural Resources Co,PXD
-PNC Financial Services Group,PNC
-PPG Industries,PPG
-PPL,PPL
-Praxair Inc,PX
-Priceline,PCLN
-Principal Financial Group Inc,PFG
-Procter & Gamble,PG
-Progressive Corp,PGR
-Prologis Inc,PLD
-Prudential,PRU
-Public Service Enterprise Group Inc,PEG
-Public Storage,PSA
-PulteGroup Inc,PHM
-PVH Corp,PVH
-Qorvo Inc,QRVO
-Qualcomm,QCOM
-Quanta Services Inc,PWR
-Quest Diagnostics Inc,DGX
-Ralph Lauren Corp,RL
-Range Resources Corp,RRC
-Raymond James Financial Inc,RJF
-Raytheon,RTN
-Realty Income Corp,O
-Red Hat Inc,RHT
-Regency Centers Corp,REG
-Regeneron Pharmaceuticals,REGN
-Regions Financial Corp,RF
-Republic Services Inc,RSG
-ResMed Inc,RMD
-Robert Half International Inc,RHI
-Rockwell Automation Inc,ROK
-Rockwell Collins Inc,COL
-Roper Technologies Inc,ROP
-Ross Stores Inc,ROST
-Royal Caribbean Cruises Ltd,RCL
-S&P Global Inc,SPGI
-Salesforce.com,CRM
-SBA Communications Corp,SBAC
-SCANA Corp,SCG
-Schlumberger,SLB
-Scripps Networks Interactive Inc,SNI
-Seagate Technology PLC,STX
-Sealed Air Corp,SEE
-Sempra Energy,SRE
-Sherwin-Williams Co,SHW
-Signet Jewelers Ltd,SIG
-Simon Property Group Inc,SPG
-Skyworks Solutions Inc,SWKS
-SL Green Realty Corp,SLG
-Snap-On Inc,SNA
-Southern Co,SO
-Southwest Airlines,LUV
-Stanley Black & Decker Inc,SWK
-Starbucks,SBUX
-State Street,STT
-Stericycle Inc,SRCL
-Stryker Corp,SYK
-SunTrust Banks Inc,STI
-Symantec Corp,SYMC
-Synchrony Financial,SYF
-Synopsys Inc,SNPS
-Sysco Corp,SYY
-T. Rowe Price Group Inc,TROW
-Tapestry Inc,TPR
-Target,TGT
-TE Connectivity,TEL
-TechnipFMC PLC,FTI
-Texas Instruments,TXN
-Textron Inc,TXT
-Thermo Fisher Scientific Inc,TMO
-Tiffany & Co,TIF
-Time Warner,TWX
-TJX Companies Inc,TJX
-Torchmark Corp,TMK
-Total System Services Inc,TSS
-Tractor Supply Co,TSCO
-TransDigm Group Inc,TDG
-Travelers Companies Inc,TRV
-TripAdvisor Inc,TRIP
-Twenty-First Century Fox,FOX
-Twenty-First Century Fox,FOXA
-Tyco,JCI
-Tyson Foods Inc,TSN
-U.S. Bancorp,USB
-UDR Inc,UDR
-Ulta Beauty Inc,ULTA
-Under Armour,UAA
-Under Armour,UA
-Union Pacific,UNP
-United Continental Holdings,UAL
-United Rentals Inc,URI
-United Technologies,UTX
-UnitedHealth,UNH
-Universal Health Services Inc,UHS
-Unum Group,UNM
-UPS,UPS
-Valero Energy,VLO
-Varian Medical Systems Inc,VAR
-Ventas Inc,VTR
-Verisign Inc,VRSN
-Verisk Analytics Inc,VRSK
-Verizon,VZ
-Vertex Pharmaceuticals Inc,VRTX
-VF Corp,VFC
-Viacom,VIAB
-Visa,V
-Vornado Realty Trust,VNO
-Vulcan Materials Co,VMC
-W W Grainger Inc,GWW
-Wal-Mart,WMT
-Walgreen,WBA
-Waste Management Inc,WM
-Waters Corp,WAT
-WEC Energy Group Inc,WEC
-WellPoint,ANTM
-Wells Fargo,WFC
-Welltower Inc,HCN
-Western Digital Corp,WDC
-Western Union Co,WU
-WestRock Co,WRK
-Weyerhaeuser Co,WY
-Whirlpool Corp,WHR
-Williams Companies,WMB
-Willis Towers Watson PLC,WLTW
-Wyndham Worldwide Corp,WYN
-Wynn Resorts,WYNN
-Xcel Energy Inc,XEL
-Xerox,XRX
-Xilinx Inc,XLNX
-XL Group Ltd,XL
-Xylem Inc,XYL
-Yum! Brands,YUM
-Zimmer Biomet Holdings Inc,ZBH
-Zions Bancorp,ZION
-Zoetis Inc,ZTS
+Company,Industry,NetIncome,Sector,Ticker,TotalAssets,TotalShareholderEquity
+Agilent Technologies Inc,Biotechnology,684.0M,Health Technology,A,8.4B,4.8B
+Altria Group,Tobacco,10.2B,Consumer Non-Durables,MO,43.2B,15.4B
+Andeavor,Oil Refining/Marketing,734.0M,Energy Minerals,ANDV,20.4B,5.5B
+AvalonBay Communities,Real Estate Investment Trusts,876.9M,Finance,AVB,18.4B,10.4B
+Boston Properties,Real Estate Investment Trusts,462.4M,Finance,BXP,19.4B,5.8B
+Caterpillar,Trucks/Construction/Farm Machinery,754.0M,Producer Manufacturing,CAT,77.0B,13.7B
+Chubb Ltd,Property/Casualty Insurance,3.9B,Finance,CB,167.0B,51.2B
+Colgate-Palmolive,Household/Personal Care,2.0B,Consumer Non-Durables,CL,12.7B,-60.0M
+Cummins Inc,Trucks/Construction/Farm Machinery,999.0M,Producer Manufacturing,CMI,18.1B,7.3B
+Disney,Media Conglomerates,9.0B,Consumer Services,DIS,95.8B,41.3B
+Ecolab Inc,Chemicals: Specialty,1.2B,Process Industries,ECL,18.3B,6.9B
+Everest Re Group Ltd,Property/Casualty Insurance,469.0M,Finance,RE,23.6B,8.4B
+FirstEnergy Corp,Electric Utilities,-6.2B,Utilities,FE,43.1B,6.2B
+General Dynamics,Aerospace & Defense,2.9B,Electronic Technology,GD,35.0B,11.4B
+Harley-Davidson Inc,Motor Vehicles,521.8M,Consumer Durables,HOG,10.0B,1.8B
+Honeywell,Industrial Conglomerates,1.7B,Producer Manufacturing,HON,59.4B,17.4B
+International Flavors & Fragrances Inc,Household/Personal Care,404.0M,Consumer Non-Durables,IFF,4.0B,1.6B
+Intercontinental Exchange Inc,Investment Banks/Brokers,2.5B,Finance,ICE,78.3B,16.9B
+Intel,Semiconductors,9.6B,Electronic Technology,INTC,123.2B,69.9B
+Ingersoll-Rand,Industrial Conglomerates,1.3B,Producer Manufacturing,IR,18.2B,7.2B
+Incyte Corp,Biotechnology,104.2M,Health Technology,INCY,1.6B,419.5M
+Illumina Inc,Biotechnology,726.0M,Health Technology,ILMN,5.3B,2.8B
+Illinois Tool Works Inc,Industrial Machinery,1.7B,Producer Manufacturing,ITW,16.8B,4.6B
+IHS Markit Ltd,Financial Publishing/Services,416.9M,Commercial Services,INFO,14.6B,8.0B
+IDEXX Laboratories Inc,Medical Specialties,263.1M,Health Technology,IDXX,1.7B,-54.1M
+IBM,Information Technology Services,5.8B,Technology Services,IBM,125.4B,17.6B
+Huntington Ingalls Industries Inc,Aerospace & Defense,573.0M,Electronic Technology,HII,6.9B,1.7B
+Huntington Bancshares Inc,Regional Banks,1.2B,Finance,HBAN,104.2B,10.8B
+Humana Inc,Managed Health Care,2.4B,Health Services,HUM,27.2B,9.8B
+Host Hotels & Resorts Inc,Real Estate Investment Trusts,762.0M,Finance,HST,11.4B,7.0B
+Hormel Foods Corp,Food: Meat/Fish/Dairy,846.7M,Consumer Non-Durables,HRL,7.3B,4.9B
+Home Depot,Home Improvement Chains,8.0B,Retail Trade,HD,43.0B,4.3B
+Hologic Inc,Medical Specialties,755.5M,Health Technology,HOLX,8.0B,2.8B
+Hilton Worldwide Holdings Inc,Hotels/Resorts/Cruiselines,348.0M,Consumer Services,HLT,26.2B,5.9B
+Hewlett-Packard,Computer Processing Hardware,2.5B,Electronic Technology,HPQ,32.9B,-3.4B
+Hewlett Packard Enterprise Co,Computer Processing Hardware,344.0M,Electronic Technology,HPE,61.4B,23.5B
+Hess,Oil & Gas Production,-4.1B,Energy Minerals,HES,23.1B,11.1B
+H & R Block Inc,Other Consumer Services,407.9M,Consumer Services,HRB,2.7B,-60.9M
+Google,Internet Software/Services,12.7B,Technology Services,GOOG,197.3B,152.5B
+Google,Internet Software/Services,12.7B,Technology Services,GOOGL,197.3B,152.5B
+Goodyear Tire & Rubber Co,Automotive Aftermarket,346.0M,Consumer Durables,GT,17.1B,4.6B
+Goldman Sachs,Investment Banks/Brokers,4.3B,Finance,GS,917.0B,82.0B
+GM,Motor Vehicles,-1.7B,Consumer Durables,GM,212.5B,35.0B
+Global Payments Inc,Data Processing Services,124.9M,Technology Services,GPN,10.7B,2.6B
+Gilead Sciences,Biotechnology,4.6B,Health Technology,GILD,70.3B,20.5B
+GGP Inc,Real Estate Investment Trusts,657.3M,Finance,GGP,23.3B,8.6B
+Genuine Parts Co,Wholesale Distributors,687.2M,Distribution Services,GPC,8.9B,3.2B
+General Mills,Food: Major Diversified,1.7B,Consumer Non-Durables,GIS,22.8B,4.3B
+General Electric,Industrial Conglomerates,-5.8B,Producer Manufacturing,GE,377.9B,64.3B
+Gartner Inc,Miscellaneous Commercial Services,3.3M,Commercial Services,IT,7.3B,983.5M
+Garmin Ltd,Telecommunications Equipment,510.8M,Electronic Technology,GRMN,4.5B,3.4B
+Hershey,Food: Specialty/Candy,756.5M,Consumer Non-Durables,HSY,5.6B,931.6M
+Gap,Apparel/Footwear Retail,676.0M,Retail Trade,GPS,7.6B,2.9B
+Freeport-McMoRan Inc,Precious Metals,1.8B,Non-Energy Minerals,FCX,37.3B,8.0B
+Franklin Resources,Investment Managers,1.7B,Finance,BEN,17.5B,12.6B
+Fortune Brands Home & Security Inc,Building Products,472.6M,Producer Manufacturing,FBHS,5.5B,2.6B
+Fortive Corp,Electronic Equipment/Instruments,1.0B,Electronic Technology,FTV,10.5B,3.8B
+Ford,Motor Vehicles,7.6B,Consumer Durables,F,257.8B,34.9B
+Foot Locker Inc,Apparel/Footwear Retail,664.0M,Retail Trade,FL,3.8B,2.7B
+FMC Corp,Chemicals: Agricultural,208.4M,Process Industries,FMC,6.1B,2.0B
+Fluor Corp,Engineering & Construction,281.4M,Industrial Services,FLR,9.5B,3.1B
+Flowserve Corp,Industrial Machinery,132.5M,Producer Manufacturing,FLS,4.7B,1.6B
+FLIR Systems Inc,Aerospace & Defense,166.6M,Electronic Technology,FLIR,2.6B,1.7B
+Fiserv Inc,Data Processing Services,1.2B,Technology Services,FISV,10.3B,2.7B
+Fifth Third Bancorp,Regional Banks,2.2B,Finance,FITB,142.2B,16.4B
+Fidelity National Information Services Inc,Data Processing Services,1.3B,Technology Services,FIS,24.5B,10.8B
+FedEx,Air Freight/Couriers,3.0B,Transportation,FDX,48.6B,16.1B
+Federal Realty Investment Trust,Real Estate Investment Trusts,216.8M,Finance,FRT,5.4B,2.0B
+Fastenal Co,Wholesale Distributors,578.6M,Distribution Services,FAST,2.9B,2.1B
+Facebook,Internet Software/Services,15.9B,Technology Services,FB,84.5B,74.3B
+F5 Networks Inc,Computer Communications,420.8M,Electronic Technology,FFIV,2.5B,1.2B
+Exxon Mobil,Integrated Oil,19.7B,Energy Minerals,XOM,--,187.7B
+Extra Space Storage Inc,Real Estate Investment Trusts,365.3M,Finance,EXR,7.1B,2.2B
+Expeditors International of Washington Inc,Air Freight/Couriers,430.8M,Transportation,EXPD,2.8B,1.8B
+Express Scripts Holding Co,Services to the Health Industry,3.4B,Health Services,ESRX,51.7B,16.2B
+Expedia Inc,Other Consumer Services,378.0M,Consumer Services,EXPE,18.5B,4.5B
+Exelon,Electric Utilities,3.8B,Utilities,EXC,116.7B,29.9B
+Eversource Energy,Electric Utilities,942.3M,Utilities,ES,32.1B,10.7B
+Estee Lauder,Household/Personal Care,1.2B,Consumer Non-Durables,EL,11.6B,4.4B
+Essex Property Trust Inc,Real Estate Investment Trusts,433.1M,Finance,ESS,12.5B,6.3B
+Equity Residential,Real Estate Investment Trusts,428.2M,Finance,EQR,20.6B,10.2B
+Equinix Inc,Real Estate Investment Trusts,124.4M,Finance,EQIX,12.6B,4.4B
+Equifax Inc,Miscellaneous Commercial Services,488.8M,Commercial Services,EFX,6.7B,2.7B
+EQT Corp,Oil & Gas Production,-453.0M,Energy Minerals,EQT,15.5B,5.9B
+EOG Resources Inc,Oil & Gas Production,-1.1B,Energy Minerals,EOG,29.5B,14.0B
+Envision Healthcare Corp,Hospital/Nursing Management,-18.6M,Health Services,EVHC,16.7B,6.7B
+Entergy Corp,Electric Utilities,-564.5M,Utilities,ETR,45.9B,8.3B
+Emerson Electric Co,Electrical Products,1.5B,Producer Manufacturing,EMR,19.6B,8.7B
+Eli Lilly and Co,Pharmaceuticals: Major,-204.1M,Health Technology,LLY,--,--
+Electronic Arts Inc,Recreational Products,967.0M,Consumer Durables,EA,7.7B,4.1B
+Edwards Lifesciences Corp,Medical Specialties,583.6M,Health Technology,EW,5.7B,3.0B
+Edison International,Electric Utilities,1.3B,Utilities,EIX,51.3B,12.0B
+eBay,Other Consumer Services,-1.0B,Consumer Services,EBAY,26.0B,8.1B
+Eaton Corporation PLC,Electrical Products,3.0B,Producer Manufacturing,ETN,32.6B,17.3B
+Eastman Chemical Co,Chemicals: Major Diversified,1.5B,Process Industries,EMN,--,5.5B
+E*TRADE Financial Corp,Investment Banks/Brokers,614.0M,Finance,ETFC,63.4B,6.9B
+DXC Technology Co,Data Processing Services,-123.0M,Technology Services,DXC,8.7B,1.9B
+Duke Realty Corp,Real Estate Investment Trusts,272.7M,Finance,DRE,7.4B,4.5B
+Duke Energy,Electric Utilities,2.7B,Utilities,DUK,139.5B,41.0B
+DTE Energy Co,Electric Utilities,866.0M,Utilities,DTE,32.0B,9.0B
+Dr Pepper Snapple Group Inc,Beverages: Non-Alcoholic,847.0M,Consumer Non-Durables,DPS,9.8B,2.1B
+DowDuPont Inc,Chemicals: Major Diversified,1.5B,Process Industries,DWDP,192.2B,100.3B
+Dover Corp,Miscellaneous Manufacturing,811.7M,Producer Manufacturing,DOV,10.7B,4.4B
+Dominion Energy Inc,Electric Utilities,3.1B,Utilities,D,--,--
+Dollar Tree Inc,Discount Stores,896.2M,Retail Trade,DLTR,15.9B,5.4B
+Dollar General,Discount Stores,1.3B,Retail Trade,DG,11.9B,5.4B
+DISH Network,Cable/Satellite TV,1.4B,Consumer Services,DISH,28.2B,4.6B
+Discovery Communications Inc,Movies/Entertainment,1.2B,Consumer Services,DISCK,15.8B,5.2B
+Discovery Communications Inc,Movies/Entertainment,1.2B,Consumer Services,DISCA,15.8B,5.2B
+Discover Financial Services,Regional Banks,2.1B,Finance,DFS,100.1B,10.9B
+Digital Realty Trust Inc,Real Estate Investment Trusts,426.2M,Finance,DLR,12.2B,5.1B
+Devon Energy Corp,Oil & Gas Production,-3.3B,Energy Minerals,DVN,25.9B,5.9B
+Dentsply Sirona Inc,Medical Specialties,429.9M,Health Technology,XRAY,11.7B,8.1B
+Delta Air Lines,Airlines,3.6B,Transportation,DAL,53.3B,13.9B
+Deere & Co,Trucks/Construction/Farm Machinery,2.2B,Producer Manufacturing,DE,65.8B,9.6B
+Davita Inc,Medical/Nursing Services,879.9M,Health Services,DVA,19.3B,4.6B
+Darden Restaurants Inc,Restaurants,479.1M,Consumer Services,DRI,5.5B,2.1B
+Danaher Corp,Medical Specialties,2.5B,Health Technology,DHR,46.6B,26.4B
+D.R. Horton Inc,Homebuilding,1.0B,Consumer Durables,DHI,12.2B,7.7B
+CVS Caremark,Drugstore Chains,6.6B,Retail Trade,CVS,95.1B,37.7B
+CSX Corp,Railroads,5.5B,Transportation,CSX,36.6B,14.7B
+CSRA Inc,Information Technology Services,304.0M,Technology Services,CSRA,5.1B,330.0M
+Crown Castle International Corp,Real Estate Investment Trusts,444.6M,Finance,CCI,32.2B,12.3B
+Coty Inc,Household/Personal Care,-422.2M,Consumer Non-Durables,COTY,22.5B,9.3B
+Costco,Discount Stores,2.7B,Retail Trade,COST,36.3B,10.8B
+Corning,Electronic Components,-497.0M,Electronic Technology,GLW,27.5B,15.7B
+Cooper Companies Inc,Medical Specialties,372.9M,Health Technology,COO,4.9B,3.2B
+Constellation Brands Inc,Beverages: Alcoholic,1.5B,Consumer Non-Durables,STZ,18.6B,6.9B
+Consolidated Edison Inc,Electric Utilities,1.2B,Utilities,ED,48.3B,14.3B
+ConocoPhillips,Oil & Gas Production,-855.0M,Energy Minerals,COP,73.0B,30.8B
+Concho Resources Inc,Oil & Gas Production,-1.5B,Energy Minerals,CXO,12.5B,7.6B
+Conagra Brands Inc,Food: Major Diversified,638.5M,Consumer Non-Durables,CAG,10.1B,4.0B
+Comerica Inc,Major Banks,738.0M,Finance,CMA,71.6B,8.0B
+Comcast,Cable/Satellite TV,22.7B,Consumer Services,CMCSA,186.9B,68.6B
+Cognizant Technology Solutions Corp,Information Technology Services,1.5B,Technology Services,CTSH,15.2B,10.7B
+Coca-Cola,Beverages: Non-Alcoholic,6.5B,Consumer Non-Durables,KO,87.3B,23.1B
+CMS Energy Corp,Electric Utilities,551.0M,Utilities,CMS,21.6B,4.3B
+CME Group Inc,Investment Banks/Brokers,4.1B,Finance,CME,75.8B,22.4B
+Clorox Co,Household/Personal Care,701.0M,Consumer Non-Durables,CLX,4.6B,542.0M
+Citrix Systems Inc,Packaged Software,-20.7M,Technology Services,CTXS,5.8B,992.5M
+Citizens Financial Group Inc,Regional Banks,1.7B,Finance,CFG,152.3B,20.3B
+Citigroup,Financial Conglomerates,-6.2B,Finance,C,1.8T,201.3B
+Cisco,Computer Communications,9.6B,Electronic Technology,CSCO,129.8B,66.1B
+Cintas Corp,Other Consumer Services,444.7M,Consumer Services,CTAS,7.0B,2.3B
+Cincinnati Financial Corp,Property/Casualty Insurance,1.0B,Finance,CINF,21.8B,8.2B
+Cimarex Energy Co,Oil & Gas Production,-408.8M,Energy Minerals,XEC,4.6B,2.0B
+Cigna Corp,Managed Health Care,2.2B,Health Services,CI,--,13.7B
+Church & Dwight Co Inc,Household/Personal Care,743.4M,Consumer Non-Durables,CHD,6.0B,2.2B
+Chipotle,Restaurants,176.3M,Consumer Services,CMG,2.2B,1.4B
+Chevron,Integrated Oil,9.2B,Energy Minerals,CVX,253.8B,148.1B
+Chesapeake Energy,Oil & Gas Production,-4.4B,Energy Minerals,CHK,13.0B,-1.5B
+Charter Communications Inc,Cable/Satellite TV,9.9B,Consumer Services,CHTR,149.4B,39.1B
+Charles Schwab,Investment Banks/Brokers,2.4B,Finance,SCHW,243.3B,18.5B
+CF Industries Holdings Inc,Chemicals: Agricultural,-277.0M,Process Industries,CF,15.5B,3.3B
+Cerner Corp,Information Technology Services,867.0M,Technology Services,CERN,6.5B,4.8B
+CenturyLink,Specialty Telecommunications,626.0M,Communications,CTL,47.0B,13.4B
+CenterPoint Energy Inc,Electric Utilities,432.0M,Utilities,CNP,22.3B,3.5B
+Centene Corp,Managed Health Care,828.0M,Health Services,CNC,21.9B,6.9B
+Celgene,Biotechnology,2.9B,Health Technology,CELG,30.1B,6.9B
+CBS,Broadcasting,1.3B,Consumer Services,CBS,24.2B,3.7B
+CBRE Group Inc,Real Estate Development,691.5M,Finance,CBG,11.5B,4.0B
+Cboe Global Markets Inc,Investment Banks/Brokers,184.9M,Finance,CBOE,511.8M,317.9M
+Carnival Corp,Hotels/Resorts/Cruiselines,2.6B,Consumer Services,CCL,40.8B,24.2B
+Carmax Inc,Specialty Stores,627.0M,Retail Trade,KMX,16.4B,3.1B
+Cardinal Health Inc,Medical Distributors,1.3B,Distribution Services,CAH,40.1B,6.8B
+Capital One Financial,Finance/Rental/Leasing,2.0B,Finance,COF,365.7B,48.7B
+Campbell Soup Co,Food: Major Diversified,887.0M,Consumer Non-Durables,CPB,7.7B,1.6B
+Cadence Design Systems Inc,Electronic Production Equipment,204.1M,Electronic Technology,CDNS,2.4B,989.2M
+Cabot Oil & Gas Corp,Oil & Gas Production,-417.1M,Energy Minerals,COG,5.8B,2.6B
+CA Inc,Packaged Software,766.0M,Technology Services,CA,12.6B,5.7B
+C.H. Robinson Worldwide Inc,Air Freight/Couriers,504.9M,Transportation,CHRW,4.2B,1.4B
+Brown-Forman Corp,Beverages: Alcoholic,669.0M,Consumer Non-Durables,BFB,4.6B,1.4B
+Broadcom Ltd,Semiconductors,1.7B,Electronic Technology,AVGO,54.4B,20.3B
+Bristol-Myers Squibb,Pharmaceuticals: Major,1.0B,Health Technology,BMY,--,--
+Brighthouse Financial Inc,Life/Health Insurance,--,Finance,BHF,--,--
+Boston Scientific Corp,Medical Specialties,104.0M,Health Technology,BSX,--,--
+BorgWarner Inc,Auto Parts: OEM,439.9M,Producer Manufacturing,BWA,9.8B,3.7B
+Boeing,Aerospace & Defense,8.2B,Electronic Technology,BA,92.3B,355.0M
+BlackRock,Investment Managers,5.0B,Finance,BLK,--,--
+Biogen,Biotechnology,2.5B,Health Technology,BIIB,23.7B,12.6B
+Best Buy Co Inc,Electronics/Appliance Stores,1.2B,Retail Trade,BBY,14.2B,4.7B
+Becton Dickinson and Co,Medical Specialties,1.1B,Health Technology,BDX,37.7B,12.9B
+BB&T Corp,Major Banks,2.4B,Finance,BBT,221.6B,29.6B
+Baxter International Inc,Medical Specialties,717.0M,Health Technology,BAX,--,--
+Bank of New York,Major Banks,4.0B,Finance,BK,371.8B,41.3B
+Bank of America,Major Banks,18.2B,Finance,BAC,2.3T,267.1B
+Ball Corp,Containers/Packaging,399.0M,Process Industries,BLL,17.2B,4.1B
+Baker Hughes A GE Co,Oilfield Services/Equipment,-132.0M,Industrial Services,BHGE,57.1B,39.2B
+Avery Dennison Corp,Containers/Packaging,281.8M,Process Industries,AVY,5.1B,1.0B
+Autozone Inc,Specialty Stores,1.3B,Retail Trade,AZO,9.3B,-1.4B
+Automatic Data Processing Inc,Data Processing Services,1.7B,Technology Services,ADP,37.2B,4.0B
+Autodesk Inc,Packaged Software,-582.1M,Technology Services,ADSK,4.8B,733.6M
+AT&T,Major Telecommunications,29.5B,Communications,T,444.1B,140.9B
+Assurant Inc,Specialty Insurance,519.6M,Finance,AIZ,31.8B,4.3B
+Arthur J Gallagher & Co,Insurance Brokers/Services,463.1M,Finance,AJG,12.9B,4.1B
+Archer Daniels Midland Co,Agricultural Commodities/Milling,1.6B,Process Industries,ADM,28.3B,18.4B
+Aptiv PLC,Auto Parts: OEM,1.4B,Producer Manufacturing,APTV,12.2B,3.3B
+Applied Materials Inc,Electronic Production Equipment,3.4B,Electronic Technology,AMAT,19.4B,9.3B
+Apple,Telecommunications Equipment,48.4B,Electronic Technology,AAPL,375.3B,134.0B
+Apartment Investment and Management Co,Real Estate Investment Trusts,15.9M,Finance,AIV,6.1B,1.7B
+Apache Corp,Oil & Gas Production,-1.4B,Energy Minerals,APA,22.5B,6.2B
+Aon PLC,Insurance Brokers/Services,1.2B,Finance,AON,26.1B,4.6B
+ANSYS Inc,Packaged Software,265.6M,Technology Services,ANSS,2.8B,2.2B
+Analog Devices Inc,Semiconductors,725.0M,Electronic Technology,ADI,21.1B,10.2B
+Anadarko Petroleum Corp,Oil & Gas Production,-456.0M,Energy Minerals,APC,42.1B,10.7B
+Amphenol Corp,Electronic Components,650.5M,Electronic Technology,APH,10.0B,4.0B
+Amgen,Biotechnology,2.0B,Health Technology,AMGN,80.0B,25.2B
+Ametek Inc,Miscellaneous Manufacturing,681.5M,Producer Manufacturing,AME,7.8B,4.0B
+AmerisourceBergen Corp,Medical Distributors,364.5M,Distribution Services,ABC,35.3B,2.1B
+Ameriprise Financial Inc,Investment Banks/Brokers,1.5B,Finance,AMP,147.5B,6.0B
+American Water Works Company Inc,Water Utilities,468.0M,Utilities,AWK,19.6B,5.2B
+American Tower,Real Estate Investment Trusts,956.4M,Finance,AMT,30.9B,6.8B
+American Express,Financial Conglomerates,2.7B,Finance,AXP,181.0B,18.0B
+American Electric Power Company Inc,Electric Utilities,--,Utilities,AEP,--,--
+American Airlines,Airlines,1.9B,Transportation,AAL,51.4B,3.9B
+Ameren Corp,Electric Utilities,653.0M,Utilities,AEE,24.7B,7.1B
+Amazon,Internet Retail,3.0B,Retail Trade,AMZN,131.3B,27.7B
+Allstate,Property/Casualty Insurance,3.2B,Finance,ALL,112.4B,22.6B
+Alliant Energy Corp,Electric Utilities,381.7M,Utilities,LNT,14.0B,4.1B
+Alliance Data Systems Corp,Data Processing Services,788.7M,Technology Services,ADS,30.7B,1.9B
+Allergan,Pharmaceuticals: Generic,-4.1B,Health Technology,AGN,118.3B,73.8B
+Allegion PLC,Building Products,229.1M,Producer Manufacturing,ALLE,2.2B,113.3M
+Align Technology Inc,Medical Specialties,231.4M,Health Technology,ALGN,1.8B,1.2B
+Alexion Pharmaceuticals Inc,Biotechnology,443.3M,Health Technology,ALXN,13.6B,8.9B
+Alexandria Real Estate Equities Inc,Real Estate Investment Trusts,164.2M,Finance,ARE,12.1B,5.9B
+Alcoa,Aluminum,--,Non-Energy Minerals,ARNC,--,--
+Albemarle Corp,Chemicals: Specialty,508.7M,Process Industries,ALB,8.2B,3.8B
+Alaska Air Group Inc,Airlines,1.0B,Transportation,ALK,10.7B,3.7B
+Akamai Technologies Inc,Internet Software/Services,218.3M,Technology Services,AKAM,4.6B,3.3B
+Air Products and Chemicals Inc,Chemicals: Specialty,1.2B,Process Industries,APD,18.5B,10.1B
+AIG,Multi-Line Insurance,-849.0M,Finance,AIG,498.3B,76.3B
+Aflac Inc,Life/Health Insurance,4.4B,Finance,AFL,137.2B,24.4B
+Affiliated Managers Group Inc,Investment Managers,689.5M,Finance,AMG,8.7B,3.8B
+Aetna,Managed Health Care,1.9B,Health Services,AET,55.1B,15.6B
+AES Corp,Electric Utilities,-1.1B,Utilities,AES,36.1B,3.6B
+Advanced Micro Devices Inc,Semiconductors,43.0M,Electronic Technology,AMD,3.5B,611.0M
+Advance Auto Parts Inc,Specialty Stores,457.7M,Retail Trade,AAP,8.3B,2.9B
+Adobe,Packaged Software,1.7B,Technology Services,ADBE,14.8B,8.5B
+Acuity Brands Inc,Electrical Products,321.7M,Producer Manufacturing,AYI,2.9B,1.7B
+Activision Blizzard Inc,Recreational Products,273.0M,Consumer Durables,ATVI,18.7B,9.5B
+Accenture,Information Technology Services,3.4B,Technology Services,ACN,22.7B,8.9B
+AbbVie,Pharmaceuticals: Major,5.3B,Health Technology,ABBV,--,--
+Abbott Laboratories,Medical Specialties,477.0M,Health Technology,ABT,--,--
+A. O. Smith Corp,Building Products,296.5M,Producer Manufacturing,AOS,3.2B,1.6B
+3M,Industrial Conglomerates,4.9B,Producer Manufacturing,MMM,38.0B,11.6B
+Halliburton,Oilfield Services/Equipment,-463.0M,Industrial Services,HAL,25.1B,8.3B
+HanesBrands Inc,Apparel/Footwear,61.9M,Consumer Non-Durables,HBI,6.9B,686.2M
+Harris Corp,Telecommunications Equipment,562.0M,Electronic Technology,HRS,10.1B,2.9B
+Hartford Financial Services Group Inc,Multi-Line Insurance,-3.1B,Finance,HIG,225.3B,13.5B
+Hasbro Inc,Recreational Products,396.6M,Consumer Durables,HAS,5.3B,1.8B
+HCA Healthcare Inc,Hospital/Nursing Management,2.2B,Health Services,HCA,36.6B,-6.8B
+HCP Inc,Real Estate Investment Trusts,626.5M,Finance,HCP,15.8B,5.5B
+Helmerich and Payne Inc,Contract Drilling,-130.0M,Industrial Services,HP,6.5B,4.2B
+Henry Schein Inc,Medical Distributors,506.8M,Distribution Services,HSIC,6.7B,2.8B
+Kellogg,Food: Major Diversified,1.3B,Consumer Non-Durables,K,16.4B,2.2B
+Kansas City Southern,Railroads,962.0M,Transportation,KSU,9.3B,4.5B
+Juniper Networks Inc,Computer Communications,306.2M,Electronic Technology,JNPR,9.8B,4.7B
+Leucadia National Corp,Food: Meat/Fish/Dairy,129.4M,Consumer Non-Durables,LUK,45.3B,10.3B
+Lennar Corp,Homebuilding,802.7M,Consumer Durables,LEN,18.7B,7.9B
+Leggett & Platt Inc,Home Furnishings,292.6M,Consumer Durables,LEG,3.5B,1.2B
+Lam Research Corp,Electronic Production Equipment,1.7B,Electronic Technology,LRCX,12.1B,6.8B
+Laboratory Corporation of America Holdings,Services to the Health Industry,1.3B,Health Services,LH,16.6B,6.8B
+L3 Technologies Inc,Aerospace & Defense,677.0M,Electronic Technology,LLL,12.7B,5.1B
+L Brands Inc,Apparel/Footwear Retail,1.2B,Retail Trade,LB,8.2B,-729.0M
+Kroger Co,Food Retail,2.0B,Retail Trade,KR,37.5B,6.7B
+Kraft Heinz Co,Food: Major Diversified,3.6B,Consumer Non-Durables,KHC,120.5B,57.4B
+Kohls Corp,Department Stores,556.0M,Retail Trade,KSS,13.6B,5.2B
+KLA-Tencor Corp,Electronic Production Equipment,926.1M,Electronic Technology,KLAC,5.5B,1.3B
+Kinder Morgan,Oil & Gas Pipelines,183.0M,Industrial Services,KMI,79.1B,33.6B
+Kimco Realty Corp,Real Estate Investment Trusts,232.7M,Finance,KIM,11.2B,5.3B
+Kimberly-Clark,Household/Personal Care,2.3B,Consumer Non-Durables,KMB,15.2B,690.0M
+KeyCorp,Major Banks,1.3B,Finance,KEY,137.7B,15.0B
+JPMorgan Chase,Financial Conglomerates,24.2B,Finance,JPM,2.5T,255.7B
+Johnson & Johnson,Pharmaceuticals: Major,1.3B,Health Technology,JNJ,--,--
+Jacobs Engineering Group Inc,Engineering & Construction,290.7M,Industrial Services,JEC,7.4B,4.4B
+J M Smucker Co,Food: Specialty/Candy,589.5M,Consumer Non-Durables,SJM,15.9B,6.9B
+J B Hunt Transport Services Inc,Trucking,686.3M,Transportation,JBHT,4.3B,1.8B
+Iron Mountain Inc,Real Estate Investment Trusts,102.6M,Finance,IRM,9.5B,1.9B
+Iqvia Holdings Inc,Services to the Health Industry,115.0M,Health Services,IQV,21.2B,8.6B
+Invesco Ltd,Investment Managers,1.1B,Finance,IVZ,--,--
+Intuitive Surgical,Medical Specialties,660.0M,Health Technology,ISRG,5.8B,4.7B
+Intuit,Packaged Software,971.0M,Technology Services,INTU,4.1B,1.4B
+Interpublic Group of Companies Inc,Advertising/Marketing Services,608.5M,Commercial Services,IPG,12.5B,2.0B
+International Paper Co,Containers/Packaging,2.1B,Process Industries,IP,33.9B,6.5B
+Masco Corp,Building Products,528.0M,Producer Manufacturing,MAS,5.5B,-60.0M
+Mid-America Apartment Communities Inc,Real Estate Investment Trusts,328.4M,Finance,MAA,11.5B,6.3B
+Netflix,Cable/Satellite TV,558.9M,Consumer Services,NFLX,19.0B,3.6B
+Norwegian Cruise Line Holdings Ltd,Hotels/Resorts/Cruiselines,633.1M,Consumer Services,NCLH,13.0B,4.5B
+Northrop Grumman,Aerospace & Defense,2.0B,Electronic Technology,NOC,36.6B,7.0B
+Northern Trust,Regional Banks,1.2B,Finance,NTRS,138.6B,10.2B
+Norfolk Southern,Railroads,5.4B,Transportation,NSC,36.0B,16.4B
+Nordstrom Inc,Apparel/Footwear Retail,354.0M,Retail Trade,JWN,7.9B,870.0M
+Noble Energy,Oil & Gas Production,-998.0M,Energy Minerals,NBL,21.4B,9.3B
+NiSource Inc,Gas Distributors,331.5M,Utilities,NI,18.7B,4.1B
+Nike,Apparel/Footwear,4.2B,Consumer Non-Durables,NKE,23.3B,12.4B
+Nielsen Holdings PLC,Advertising/Marketing Services,429.0M,Commercial Services,NLSN,16.9B,4.2B
+NextEra Energy,Electric Utilities,5.4B,Utilities,NEE,97.8B,28.2B
+News Corp,Publishing: Newspapers,-738.0M,Consumer Services,NWS,14.6B,10.8B
+News Corp,Publishing: Newspapers,-738.0M,Consumer Services,NWSA,14.6B,10.8B
+Newmont Mining Corp,Precious Metals,-27.0M,Non-Energy Minerals,NEM,21.0B,10.7B
+Newfield Exploration Co,Oil & Gas Production,-1.2B,Energy Minerals,NFX,4.3B,938.0M
+Newell Brands Inc,Industrial Conglomerates,527.2M,Producer Manufacturing,NWL,33.8B,11.3B
+NetApp Inc,Computer Peripherals,509.0M,Electronic Technology,NTAP,9.5B,2.8B
+Navient Corp,Finance/Rental/Leasing,292.0M,Finance,NAVI,115.0B,3.5B
+National Oilwell Varco Inc,Oilfield Services/Equipment,-237.0M,Industrial Services,NOV,20.2B,14.2B
+Nasdaq Inc,Investment Banks/Brokers,734.0M,Finance,NDAQ,15.8B,5.9B
+Mylan NV,Pharmaceuticals: Generic,480.0M,Health Technology,MYL,34.7B,11.1B
+Motorola,Aerospace & Defense,-155.0M,Electronic Technology,MSI,8.2B,-1.7B
+Mosaic Co,Chemicals: Agricultural,297.8M,Process Industries,MOS,16.8B,9.6B
+Morgan Stanley,Investment Banks/Brokers,6.2B,Finance,MS,851.9B,--
+Moody's Corp,Financial Publishing/Services,266.6M,Commercial Services,MCO,5.3B,-1.2B
+Monster Beverage Corp,Beverages: Non-Alcoholic,712.7M,Consumer Non-Durables,MNST,4.3B,3.3B
+Monsanto,Chemicals: Agricultural,2.3B,Process Industries,MON,21.3B,6.4B
+Mondelez International Inc,Food: Major Diversified,2.9B,Consumer Non-Durables,MDLZ,63.1B,26.1B
+Molson Coors Brewing Co,Beverages: Alcoholic,2.0B,Consumer Non-Durables,TAP,29.3B,11.4B
+Mohawk Industries Inc,Home Furnishings,971.6M,Consumer Durables,MHK,12.1B,7.1B
+Microsoft,Packaged Software,21.2B,Technology Services,MSFT,241.1B,72.4B
+Micron Technology Inc,Semiconductors,5.1B,Electronic Technology,MU,35.3B,18.6B
+Microchip Technology Inc,Semiconductors,164.0M,Electronic Technology,MCHP,7.7B,3.3B
+Michael Kors,Apparel/Footwear Retail,552.5M,Retail Trade,KORS,2.4B,1.6B
+MGM Resorts International,Casinos/Gaming,1.1B,Consumer Services,MGM,28.9B,6.2B
+Mettler-Toledo International Inc,Miscellaneous Manufacturing,376.0M,Producer Manufacturing,MTD,2.5B,547.3M
+Metlife,Life/Health Insurance,800.0M,Finance,MET,905.2B,67.3B
+Merck,Pharmaceuticals: Major,2.6B,Health Technology,MRK,--,--
+Medtronic PLC,Medical Specialties,4.0B,Health Technology,MDT,99.8B,50.3B
+McKesson Corp,Medical Distributors,5.2B,Distribution Services,MCK,61.0B,11.1B
+McDonald's,Restaurants,5.2B,Consumer Services,MCD,--,--
+McCormick & Company Inc,Food: Specialty/Candy,477.4M,Consumer Non-Durables,MKC,10.4B,2.6B
+Mattel Inc,Recreational Products,-1.1B,Consumer Durables,MAT,6.2B,1.3B
+MasterCard,Finance/Rental/Leasing,3.9B,Finance,MA,21.3B,5.5B
+Martin Marietta Materials Inc,Construction Materials,423.6M,Non-Energy Minerals,MLM,7.6B,4.1B
+Marsh & McLennan Companies Inc,Insurance Brokers/Services,1.5B,Finance,MMC,20.4B,7.4B
+Marriott,Hotels/Resorts/Cruiselines,780.0M,Consumer Services,MAR,24.1B,5.4B
+Marathon Petroleum,Oil Refining/Marketing,3.4B,Energy Minerals,MPC,--,20.8B
+Marathon Oil,Oil & Gas Production,-2.1B,Energy Minerals,MRO,31.1B,17.5B
+Macy's,Department Stores,619.0M,Retail Trade,M,21.2B,4.3B
+Macerich Co,Real Estate Investment Trusts,103.7M,Finance,MAC,9.6B,3.7B
+M&T Bank,Regional Banks,1.4B,Finance,MTB,118.6B,16.3B
+LyondellBasell Industries NV,Chemicals: Specialty,4.9B,Process Industries,LYB,26.2B,8.9B
+Lowe's,Home Improvement Chains,3.1B,Retail Trade,LOW,34.4B,6.4B
+Loews Corp,Property/Casualty Insurance,654.0M,Finance,L,76.6B,18.2B
+Lockheed Martin,Aerospace & Defense,2.0B,Electronic Technology,LMT,46.5B,-683.0M
+LKQ Corp,Automotive Aftermarket,464.0M,Consumer Durables,LKQ,8.3B,3.4B
+Lincoln National Corp,Life/Health Insurance,2.1B,Finance,LNC,281.8B,17.3B
+Pentair plc,Miscellaneous Manufacturing,485.4M,Producer Manufacturing,PNR,8.6B,5.0B
+Priceline,Other Consumer Services,2.1B,Consumer Services,PCLN,19.8B,9.8B
+Range Resources Corp,Oil & Gas Production,-521.6M,Energy Minerals,RRC,11.3B,5.4B
+Royal Caribbean Cruises Ltd,Hotels/Resorts/Cruiselines,1.6B,Consumer Services,RCL,22.3B,10.7B
+Snap-On Inc,Tools & Hardware,557.7M,Consumer Durables,SNA,5.2B,3.0B
+Target,Discount Stores,2.7B,Retail Trade,TGT,37.4B,11.0B
+Twenty-First Century Fox,Movies/Entertainment,3.0B,Consumer Services,FOX,50.7B,15.7B
+Unum Group,Life/Health Insurance,994.2M,Finance,UNM,64.0B,9.6B
+Universal Health Services Inc,Hospital/Nursing Management,702.1M,Health Services,UHS,10.3B,4.5B
+UnitedHealth,Managed Health Care,10.6B,Health Services,UNH,139.1B,49.8B
+United Technologies,Industrial Conglomerates,4.6B,Producer Manufacturing,UTX,96.9B,29.6B
+United Rentals Inc,Finance/Rental/Leasing,1.3B,Finance,URI,15.3B,3.1B
+United Continental Holdings,Airlines,2.1B,Transportation,UAL,--,--
+Union Pacific,Railroads,10.7B,Transportation,UNP,57.8B,24.9B
+Under Armour,Apparel/Footwear,198.0M,Consumer Non-Durables,UA,3.6B,2.0B
+Under Armour,Apparel/Footwear,198.0M,Consumer Non-Durables,UAA,3.6B,2.0B
+Ulta Beauty Inc,Specialty Stores,409.8M,Retail Trade,ULTA,2.6B,1.6B
+UDR Inc,Real Estate Investment Trusts,78.2M,Finance,UDR,7.7B,2.8B
+U.S. Bancorp,Major Banks,6.2B,Finance,USB,462.0B,49.0B
+Tyson Foods Inc,Food: Meat/Fish/Dairy,1.8B,Consumer Non-Durables,TSN,28.1B,10.5B
+Tyco,Miscellaneous Commercial Services,1.6B,Commercial Services,JCI,51.9B,20.4B
+Twenty-First Century Fox,Movies/Entertainment,3.0B,Consumer Services,FOXA,50.7B,15.7B
+TripAdvisor Inc,Other Consumer Services,120.0M,Consumer Services,TRIP,2.2B,1.5B
+Travelers Companies Inc,Property/Casualty Insurance,2.1B,Finance,TRV,103.5B,23.7B
+TransDigm Group Inc,Aerospace & Defense,437.6M,Electronic Technology,TDG,10.0B,-3.0B
+Tractor Supply Co,Specialty Stores,422.6M,Retail Trade,TSCO,2.9B,1.4B
+Total System Services Inc,Data Processing Services,586.2M,Technology Services,TSS,6.3B,2.3B
+Torchmark Corp,Life/Health Insurance,1.5B,Finance,TMK,--,--
+TJX Companies Inc,Apparel/Footwear Retail,2.3B,Retail Trade,TJX,12.9B,4.5B
+Time Warner,Movies/Entertainment,5.2B,Consumer Services,TWX,69.2B,28.4B
+Tiffany & Co,Specialty Stores,446.1M,Retail Trade,TIF,5.1B,3.0B
+Thermo Fisher Scientific Inc,Medical Specialties,2.2B,Health Technology,TMO,56.6B,25.4B
+Textron Inc,Industrial Conglomerates,307.0M,Producer Manufacturing,TXT,15.3B,5.6B
+Texas Instruments,Semiconductors,3.7B,Electronic Technology,TXN,17.6B,10.3B
+TechnipFMC PLC,Oilfield Services/Equipment,--,Industrial Services,FTI,--,--
+TE Connectivity,Electronic Components,1.7B,Electronic Technology,TEL,19.4B,9.8B
+Tapestry Inc,Apparel/Footwear Retail,591.0M,Retail Trade,TPR,5.8B,3.0B
+T. Rowe Price Group Inc,Investment Managers,1.5B,Finance,TROW,7.5B,5.8B
+Sysco Corp,Food Distributors,1.1B,Distribution Services,SYY,17.8B,2.4B
+Synopsys Inc,Electronic Production Equipment,136.6M,Electronic Technology,SNPS,5.4B,3.3B
+Synchrony Financial,Savings Banks,1.9B,Finance,SYF,95.8B,14.2B
+Symantec Corp,Packaged Software,-137.0M,Technology Services,SYMC,18.2B,3.5B
+SunTrust Banks Inc,Regional Banks,2.3B,Finance,STI,206.0B,25.2B
+Stryker Corp,Medical Specialties,1.0B,Health Technology,SYK,22.2B,10.0B
+Stericycle Inc,Services to the Health Industry,206.4M,Health Services,SRCL,7.0B,2.8B
+State Street,Investment Managers,2.2B,Finance,STT,238.4B,22.3B
+Starbucks,Restaurants,2.9B,Consumer Services,SBUX,14.4B,5.5B
+Stanley Black & Decker Inc,Tools & Hardware,1.2B,Consumer Durables,SWK,19.1B,8.3B
+Southwest Airlines,Airlines,3.5B,Transportation,LUV,26.0B,10.4B
+Southern Co,Electric Utilities,2.5B,Utilities,SO,109.7B,25.5B
+SL Green Realty Corp,Real Estate Investment Trusts,112.8M,Finance,SLG,14.0B,6.5B
+Skyworks Solutions Inc,Semiconductors,1.0B,Electronic Technology,SWKS,4.6B,4.1B
+Simon Property Group Inc,Real Estate Investment Trusts,1.9B,Finance,SPG,32.3B,3.7B
+Signet Jewelers Ltd,Specialty Stores,543.2M,Retail Trade,SIG,6.6B,3.1B
+Sherwin-Williams Co,Industrial Specialties,1.8B,Process Industries,SHW,--,--
+Sempra Energy,Gas Distributors,1.4B,Utilities,SRE,47.8B,13.0B
+Sealed Air Corp,Containers/Packaging,174.2M,Process Industries,SEE,5.3B,152.3M
+Seagate Technology PLC,Computer Peripherals,772.0M,Electronic Technology,STX,9.3B,1.4B
+Scripps Networks Interactive Inc,Movies/Entertainment,673.6M,Consumer Services,SNI,6.4B,1.9B
+Schlumberger,Oilfield Services/Equipment,-1.5B,Industrial Services,SLB,72.0B,36.8B
+SCANA Corp,Electric Utilities,595.0M,Utilities,SCG,18.7B,5.7B
+SBA Communications Corp,Real Estate Investment Trusts,76.2M,Finance,SBAC,7.4B,-2.0B
+Salesforce.com,Packaged Software,179.6M,Technology Services,CRM,17.6B,7.5B
+S&P Global Inc,Financial Publishing/Services,1.5B,Commercial Services,SPGI,9.4B,768.0M
+Ross Stores Inc,Apparel/Footwear Retail,1.1B,Retail Trade,ROST,5.5B,2.7B
+Roper Technologies Inc,Industrial Conglomerates,971.8M,Producer Manufacturing,ROP,14.3B,6.9B
+Rockwell Collins Inc,Aerospace & Defense,705.0M,Electronic Technology,COL,18.0B,6.0B
+Rockwell Automation Inc,Industrial Machinery,824.8M,Producer Manufacturing,ROK,7.3B,2.7B
+Robert Half International Inc,Personnel Services,290.6M,Commercial Services,RHI,1.9B,1.1B
+ResMed Inc,Medical Specialties,342.3M,Health Technology,RMD,3.5B,2.0B
+Republic Services Inc,Environmental Services,1.3B,Industrial Services,RSG,21.1B,8.0B
+Regions Financial Corp,Major Banks,1.3B,Finance,RF,124.3B,16.2B
+Regeneron Pharmaceuticals,Biotechnology,1.2B,Health Technology,REGN,8.8B,6.1B
+Regency Centers Corp,Real Estate Investment Trusts,117.6M,Finance,REG,4.5B,2.6B
+Red Hat Inc,Packaged Software,253.7M,Technology Services,RHT,4.5B,1.2B
+Realty Income Corp,Real Estate Investment Trusts,315.6M,Finance,O,13.2B,6.8B
+Raytheon,Aerospace & Defense,2.0B,Electronic Technology,RTN,30.9B,10.0B
+Raymond James Financial Inc,Investment Banks/Brokers,634.9M,Finance,RJF,34.9B,5.6B
+Ralph Lauren Corp,Apparel/Footwear Retail,-99.3M,Retail Trade,RL,5.7B,3.3B
+Quest Diagnostics Inc,Services to the Health Industry,769.0M,Health Services,DGX,10.5B,4.9B
+Quanta Services Inc,Engineering & Construction,198.4M,Industrial Services,PWR,5.4B,3.3B
+Qualcomm,Telecommunications Equipment,2.5B,Electronic Technology,QCOM,65.5B,30.7B
+Qorvo Inc,Semiconductors,-16.6M,Electronic Technology,QRVO,6.5B,4.9B
+PVH Corp,Apparel/Footwear,549.0M,Consumer Non-Durables,PVH,11.1B,4.8B
+PulteGroup Inc,Homebuilding,442.6M,Consumer Durables,PHM,9.7B,4.2B
+Public Storage,Real Estate Investment Trusts,1.4B,Finance,PSA,10.1B,9.4B
+Public Service Enterprise Group Inc,Electric Utilities,887.0M,Utilities,PEG,40.1B,13.1B
+Prudential,Financial Conglomerates,7.9B,Finance,PRU,831.9B,54.1B
+Prologis Inc,Real Estate Investment Trusts,1.7B,Finance,PLD,29.5B,15.6B
+Progressive Corp,Property/Casualty Insurance,1.6B,Finance,PGR,38.7B,9.3B
+Procter & Gamble,Household/Personal Care,10.0B,Consumer Non-Durables,PG,120.4B,55.2B
+Principal Financial Group Inc,Financial Conglomerates,1.3B,Finance,PFG,228.0B,10.2B
+Praxair Inc,Chemicals: Specialty,1.2B,Process Industries,PX,20.4B,6.0B
+PPL,Electric Utilities,1.9B,Utilities,PPL,38.3B,9.9B
+PPG Industries,Industrial Specialties,1.6B,Process Industries,PPG,--,--
+PNC Financial Services Group,Major Banks,5.3B,Finance,PNC,380.8B,47.5B
+Pioneer Natural Resources Co,Oil & Gas Production,827.0M,Energy Minerals,PXD,17.0B,11.3B
+Pinnacle West Capital Corp,Electric Utilities,442.0M,Utilities,PNW,16.0B,4.8B
+Phillips 66,Oil Refining/Marketing,5.1B,Energy Minerals,PSX,--,27.4B
+Philip Morris,Tobacco,6.0B,Consumer Non-Durables,PM,43.0B,-12.1B
+PG&E,Electric Utilities,1.4B,Utilities,PCG,70.9B,17.9B
+Pfizer,Pharmaceuticals: Major,21.3B,Health Technology,PFE,--,--
+Perrigo Company PLC,Pharmaceuticals: Other,-4.0B,Health Technology,PRGO,13.9B,6.0B
+PerkinElmer Inc,Medical Specialties,113.0M,Health Technology,PKI,6.1B,2.5B
+Pepsi,Beverages: Non-Alcoholic,6.3B,Consumer Non-Durables,PEP,74.1B,11.1B
+People's United Financial Inc,Savings Banks,337.2M,Finance,PBCT,44.5B,5.8B
+PayPal Holdings Inc,Data Processing Services,1.8B,Technology Services,PYPL,40.8B,16.0B
+Patterson Companies Inc,Medical Distributors,170.9M,Distribution Services,PDCO,3.6B,1.4B
+Paychex Inc,Data Processing Services,817.3M,Technology Services,PAYX,6.9B,2.0B
+Parker-Hannifin Corp,Industrial Machinery,983.4M,Producer Manufacturing,PH,15.5B,5.3B
+Packaging Corp of America,Containers/Packaging,668.6M,Process Industries,PKG,--,--
+PACCAR Inc,Trucks/Construction/Farm Machinery,1.7B,Producer Manufacturing,PCAR,23.4B,8.1B
+Oracle,Packaged Software,9.3B,Technology Services,ORCL,135.0B,53.9B
+ONEOK Inc,Oil & Gas Pipelines,352.0M,Industrial Services,OKE,16.1B,188.7M
+Omnicom Group Inc,Advertising/Marketing Services,1.1B,Commercial Services,OMC,23.2B,2.2B
+Occidental Petroleum,Oil & Gas Production,-574.0M,Energy Minerals,OXY,43.1B,21.5B
+O'Reilly Automotive Inc,Specialty Stores,1.1B,Retail Trade,ORLY,7.6B,653.0M
+NVIDIA Corp,Semiconductors,3.0B,Electronic Technology,NVDA,11.2B,7.5B
+Nucor Corp,Steel,1.3B,Non-Energy Minerals,NUE,15.8B,8.7B
+NRG Energy Inc,Electric Utilities,-774.0M,Utilities,NRG,30.4B,2.0B
+Vertex Pharmaceuticals Inc,Biotechnology,263.5M,Health Technology,VRTX,3.5B,2.0B
+Verizon,Major Telecommunications,30.1B,Communications,VZ,257.1B,43.1B
+Verisk Analytics Inc,Insurance Brokers/Services,437.1M,Finance,VRSK,4.6B,1.3B
+Verisign Inc,Internet Software/Services,457.2M,Technology Services,VRSN,2.9B,-1.3B
+Ventas Inc,Real Estate Investment Trusts,551.0M,Finance,VTR,23.2B,10.5B
+Varian Medical Systems Inc,Medical Specialties,249.6M,Health Technology,VAR,3.2B,1.5B
+Valero Energy,Oil Refining/Marketing,4.1B,Energy Minerals,VLO,--,22.0B
+UPS,Air Freight/Couriers,4.9B,Transportation,UPS,45.4B,1.0B
+Wal-Mart,Discount Stores,13.6B,Retail Trade,WMT,198.8B,77.8B
+W W Grainger Inc,Wholesale Distributors,585.7M,Distribution Services,GWW,5.8B,1.8B
+Vulcan Materials Co,Construction Materials,419.5M,Non-Energy Minerals,VMC,8.8B,4.6B
+Wyndham Worldwide Corp,Hotels/Resorts/Cruiselines,611.0M,Consumer Services,WYN,9.8B,714.0M
+Willis Towers Watson PLC,Insurance Brokers/Services,568.0M,Finance,WLTW,32.5B,10.1B
+Zoetis Inc,Pharmaceuticals: Generic,821.0M,Health Technology,ZTS,7.6B,1.5B
+Zions Bancorp,Regional Banks,592.0M,Finance,ZION,66.3B,7.7B
+Zimmer Biomet Holdings Inc,Medical Specialties,1.8B,Health Technology,ZBH,26.4B,11.8B
+Yum! Brands,Restaurants,1.3B,Consumer Services,YUM,5.3B,-6.3B
+Xylem Inc,Industrial Machinery,331.0M,Producer Manufacturing,XYL,6.9B,2.5B
+XL Group Ltd,Multi-Line Insurance,-560.4M,Finance,XL,63.4B,11.5B
+Xilinx Inc,Semiconductors,622.5M,Electronic Technology,XLNX,4.7B,2.5B
+Xerox,Computer Peripherals,195.0M,Electronic Technology,XRX,15.9B,5.5B
+Xcel Energy Inc,Electric Utilities,1.1B,Utilities,XEL,--,11.5B
+Wynn Resorts,Casinos/Gaming,747.2M,Consumer Services,WYNN,--,--
+Williams Companies,Oil & Gas Pipelines,-424.0M,Industrial Services,WMB,47.9B,4.6B
+Whirlpool Corp,Electronics/Appliances,350.0M,Consumer Durables,WHR,20.0B,4.2B
+Weyerhaeuser Co,Real Estate Investment Trusts,582.0M,Finance,WY,18.1B,8.9B
+WestRock Co,Containers/Packaging,708.1M,Process Industries,WRK,25.1B,10.3B
+Western Union Co,Miscellaneous Commercial Services,253.2M,Commercial Services,WU,9.4B,902.2M
+Western Digital Corp,Computer Peripherals,397.0M,Electronic Technology,WDC,29.9B,11.4B
+Welltower Inc,Real Estate Investment Trusts,713.8M,Finance,HCN,28.9B,14.8B
+Wells Fargo,Major Banks,22.2B,Finance,WFC,2.0T,206.9B
+WellPoint,Managed Health Care,3.8B,Health Services,ANTM,70.5B,26.5B
+WEC Energy Group Inc,Electric Utilities,1.2B,Utilities,WEC,31.6B,9.5B
+Waters Corp,Medical Specialties,20.3M,Health Technology,WAT,5.3B,2.2B
+Waste Management Inc,Environmental Services,1.2B,Industrial Services,WM,21.3B,5.3B
+Walgreen,Drugstore Chains,4.1B,Retail Trade,WBA,66.0B,27.5B
+Vornado Realty Trust,Real Estate Investment Trusts,901.7M,Finance,VNO,20.8B,6.9B
+Visa,Finance/Rental/Leasing,6.5B,Finance,V,68.0B,32.8B
+Viacom,Movies/Entertainment,1.9B,Consumer Services,VIAB,23.7B,6.0B
+VF Corp,Apparel/Footwear,1.2B,Consumer Non-Durables,VFC,9.7B,4.9B

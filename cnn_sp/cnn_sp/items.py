@@ -11,4 +11,9 @@ import scrapy
 class CnnSpItem(scrapy.Item):
     Ticker = scrapy.Field()
     Company = scrapy.Field()
+    NetIncome = scrapy.Field()
+    Sector = scrapy.Field()
+    Industry = scrapy.Field()
+    TotalAssets  = scrapy.Field()
+    TotalShareholderEquity  = scrapy.Field()
 
